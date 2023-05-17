@@ -1,0 +1,1 @@
+Rather than have only one single place for the full version history of the software as is common in once-popular version control systems
